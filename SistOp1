@@ -8,17 +8,27 @@ echo "4) Salir "
 read m
 case $m in
 
-1)clear
+1))clear
 echo "Ingrese Usuario a Crear "
 read Usuario
-Usuario=$(grep $Usuario /etc/passwd)
-if [ "$Usuario1"  =="" ]
+Usuario1=$(grep "$Usuario" /etc/passwd)
+
+if [ "$Usuario1" != "" ]
 then
-useradd -d /home/$Usuario -m -s /bin/bash Usuario
-echo "Usuario Creado"
+echo "El nombre de usuario ya existe"
 else
-echo "El nombre de usuario ya existe "
+useradd -d /home/$Usuario -m -s /bin/bash
+echo "ingrese contrasenia"
+read pw
+passwd $pw
+
+
+
+echo "Usuario Creado"
+
+
 fi
+
 // le agregamos un grupo a los usuarios? y pass
 ;;
 2)clear
