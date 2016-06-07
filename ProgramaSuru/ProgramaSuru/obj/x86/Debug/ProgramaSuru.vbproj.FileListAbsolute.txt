@@ -1,0 +1,9 @@
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\bin\Debug\ProgramaSuru.exe
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\bin\Debug\ProgramaSuru.pdb
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\bin\Debug\ProgramaSuru.xml
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.Resources.resources
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.vbproj.GenerateResource.Cache
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.exe
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.xml
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.pdb
+c:\users\pedro\onedrive\documents\visual studio 2010\Projects\ProgramaSuru\ProgramaSuru\obj\x86\Debug\ProgramaSuru.frmInicio.resources
