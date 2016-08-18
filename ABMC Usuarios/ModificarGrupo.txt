@@ -1,0 +1,26 @@
+	#!/bin/bash
+#ModificarGrupo
+while [ m!=3 ]
+do
+clear	
+	echo -e "\e[1;32m¿Que desea modificar?\n\e[0m"
+	echo -e " [1] GID de un Grupo"      
+	echo -e " [2] Nombre de un Grupo"
+	echo -e " [3] Volver" 
+	echo -e -n "\n\e[0;32m>\e[0m" "Ingrese Opcion :"
+	read m
+	case $m in
+
+	1). ModificarGrupoGID.sh
+	;;
+	2). ModificarGrupoNombre.sh
+	;;
+	3). MenuGrupo.sh
+	;;
+	*)echo -e "\n\e[0;31m [x] Opcion incorrecta...\e[0m"
+	sleep 2
+	clear
+	. ModificarGrupo.sh
+	;;
+esac
+done

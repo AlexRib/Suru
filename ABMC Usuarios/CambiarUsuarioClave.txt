@@ -1,0 +1,20 @@
+#ModificarUsuarioClave
+clear
+echo "Ingrese nombre de Usuario: "
+read Usuario
+	Usuario1=$(grep "$Usuario" /etc/passwd)
+if [ "$Usuario1" != "" ]
+	then
+	passwd $Usuario
+else
+echo " [x] El nombre de usuario no existe..."
+	sleep 2
+	clear
+	. CrearUsuario.sh
+fi
+echo "Presione Enter para volver..."
+read x
+. MenuUsuario.sh
+;;
+esac
+done
