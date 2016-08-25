@@ -1,0 +1,11 @@
+echo "Ingrese Usuario: "
+read Usuario
+	Usuario1=$(grep "$Usuario" /etc/passwd) //Comprueba si existe
+if [ "$Usuario1" == "" ]
+then
+echo "Ingrese nombre: "
+read n
+echo "Ingrese apellido: "
+read a
+useradd -d /home/$Usuario -mk /etc/skel -c "$n $a" -s /bin/bash -g "100" $Usuario
+echo "Usuario creado exitosamente."
