@@ -1,0 +1,98 @@
+Module rutinas
+Public rs As New ADODB.Recordset
+Public cm As New ADODB.Connection
+Public sql As String
+
+Public Sub asignarConexion(conexion As ADODB.Connection)
+
+cm = conexion
+
+End Sub
+
+Public Sub doyPermisos(usuario As String, password As String)
+
+Dim rol As Integer
+
+If cm.State &lt;&gt; 1 Then
+
+MsgBox(&quot;La conexión con la BD está cerrada&quot;)
+
+Else
+
+sql = &quot;select rol from user where usuario = &#39;&quot; &amp; usuario &amp; &quot;&#39; and
+
+pass=&#39;&quot; &amp; password &amp; &quot;&#39;&quot;
+
+Try
+
+rs.Open(sql, cm)
+
+Catch ex As Exception
+
+MsgBox(&quot;error al buscar el rol del usuario&quot;)
+
+Exit Sub
+
+End Try
+
+If rs.RecordCount = 1 Then
+
+rol = rs(0).Value
+
+Select Case rol
+
+Case 1
+
+frmHome.menuadmin.Enabled = True
+
+frmHome.menuseg.Enabled = True
+
+frmHome.menuUser.Enabled = True
+
+Case 2
+
+frmHome.menuseg.Enabled = True
+
+Case 3
+
+frmHome.menuUser.Enabled = True
+
+End Select
+
+Else
+
+MsgBox(&quot;No se encontro el rol del usuario&quot;)
+
+cm.Close()
+
+frmLogin.Show()
+
+End If
+
+rs.Close()
+
+End If
+
+End Sub
+
+Public Sub BuscarCI(ci As Integer)
+
+sql = &quot;select * from ocupante where ci = &#39;&quot; &amp; ci &amp; &quot;&#39;&quot;
+
+Try
+
+rs.Open(sql, cm)
+
+Catch ex As Exception
+
+MsgBox(&quot;hubo errores al efectuar operaciones&quot;)
+
+Exit Sub
+
+End Try
+
+End Sub
+Public Sub BuscarServicio(servicio As Integer)
+servicio = frmadmServicios.TxtId.Text
+If rs.State = 1 Then
+rs.Close()
