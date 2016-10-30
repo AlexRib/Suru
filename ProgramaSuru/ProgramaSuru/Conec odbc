@@ -1,0 +1,19 @@
+Module conexionODBC
+    Public cn As New ADODB.Connection
+    Public rs As New ADODB.RecordSet
+    Public sql As String
+
+
+    Public cmd As OleDb.OleDbCommand
+    Public dr As OleDb.OleDbDataReader
+
+
+    Public Sub validonumero(e)
+        If Char.IsDigit(e.KeyChar) Then
+            e.Handled = False
+        ElseIf Char.IsControl(e.KeyChar) Then
+            e.Handled = False
+        Else
+            e.Handled = True
+        End If
+    End Sub
