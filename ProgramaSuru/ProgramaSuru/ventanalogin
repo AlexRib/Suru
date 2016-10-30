@@ -1,0 +1,18 @@
+Public Class frmLogin
+
+
+    Public Sub conectar()
+        Try
+            cn.Open("sur1", txtUsuario.Text, txtClave.Text)
+            'permisos()
+            MsgBox("Bienvenido! " & txtUsuario.Text & "", MsgBoxStyle.Information, "Acceder")
+            Me.Close()
+            System.Threading.Thread.Sleep(2000)
+            frmMenu.Visible = True
+        Catch ex As Exception
+            MsgBox("Usuario o Contraseña incorrecta.", MsgBoxStyle.Exclamation, "Acceder")
+            limpiar()
+            Exit Sub
+        End Try
+        cn.CursorLocation = ADODB.CursorLocationEnum.adUseClient
+    End Sub
