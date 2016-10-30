@@ -24,7 +24,7 @@ Module conexionODBC
         ok = True
         dgv.Rows.Clear()
         dgv.Columns.Clear()
-        If rs.State <> 1 Then
+        If rs.State <> 0 Then
             ok = False
         Else
             If rs.RecordCount < 1 Then
