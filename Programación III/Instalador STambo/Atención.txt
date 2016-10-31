@@ -1,0 +1,1 @@
+El instalador se encuentra dentro de la carpeta Debug/setup.exe

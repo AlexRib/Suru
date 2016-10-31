@@ -1,0 +1,115 @@
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.exe
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.pdb
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\bin\Debug\Principal.xml
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.Form1.resources
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.Resources.resources
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.vbproj.GenerateResource.Cache
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.exe
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.xml
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\GeR\AppData\Local\Temporary Projects\Principal\obj\x86\Debug\Principal.frmLogin.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.exe
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.xml
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\bin\Debug\Principal.xml
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmLogin.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.Resources.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.vbproj.GenerateResource.Cache
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmUsuario.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmSplash.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmMenuPrincipal.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmCria.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmOrdenie.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmMenu.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.form.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.BOTONES.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmToro.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmAborto.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmEnfermedad.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmServicio.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmTratamiento.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmVaca.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmAnimAgregar.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.frmNavegar.resources
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.exe.licenses
+C:\Users\GeR\documents\visual studio 2010\Projects\Principal\Principal\obj\x86\Debug\Principal.Form1.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.exe
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.xml
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\gercs\Desktop\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\gercs\Desktop\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\gercs\Desktop\Principal\Principal\bin\Debug\Principal.xml
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmAborto.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmCria.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmMenu.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmNavegar.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmOrdenie.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmServicio.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmSplash.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmToro.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmTratamiento.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmLogin.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmUsuario.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmVaca.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.Resources.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.vbproj.GenerateResource.Cache
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.exe.licenses
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmEstado.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmEnfermedad.resources
+C:\Users\gercs\Desktop\Principal\Principal\obj\x86\Debug\Principal.frmContrae.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.vbproj.ResolveComReference.cache
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.exe
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.xml
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.pdb
+F:\proy\Principal\Principal\bin\Debug\Principal.exe
+F:\proy\Principal\Principal\bin\Debug\Principal.pdb
+F:\proy\Principal\Principal\bin\Debug\Principal.xml
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmAborto.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmCria.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmContrae.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmEnfermedad.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmEstado.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmMenu.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmNavegar.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmOrdenie.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmServicio.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmSplash.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmToro.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmTratamiento.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmLogin.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmUsuario.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.frmVaca.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.Resources.resources
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.vbproj.GenerateResource.Cache
+F:\proy\Principal\Principal\obj\x86\Debug\Principal.exe.licenses
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.exe
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.xml
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\bin\Debug\Principal.xml
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmCria.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmContrae.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmEnfermedad.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmEstado.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmMenu.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmNavegar.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmOrdenie.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmServicio.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmSplash.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmToro.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmLogin.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmUsuario.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmVaca.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.Resources.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.vbproj.GenerateResource.Cache
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.exe.licenses
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmVictima.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmRecria.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmRecria2.resources
+C:\Users\gercs\Desktop\ITI\Proyecto\Programación\proy\Principal\Principal\obj\x86\Debug\Principal.frmTambo.resources
